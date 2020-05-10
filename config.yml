@@ -1,0 +1,19 @@
+server: omega
+goal: noble
+food:
+  golden_egg:     4
+  grunt_mints:    16
+  twilight_onion: 1
+  snaky_cactus:   2
+  oh_no_melon:    10
+  cordyceps:      0
+  white_cherry:   15
+  root_vegetable: 2
+  la_pumpkin:     22
+  mushroom:       10
+  mandragora:     11
+  piney_apple:    0
+  immature_egg:   40
+  bear_cat_egg:   41
+  invisible_egg:  33
+  bloody_egg:     25
